@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+| <a href="https://github.com/arkiven4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arkiven4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/arkiven4/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkiven4&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ##
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arkiven4&theme=blue-green)
 ##
